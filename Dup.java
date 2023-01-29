@@ -4,7 +4,7 @@ import ds.*;
 
 class Dup {
 
-   static float[] fA= {10.0f, 11.0f, 12.0f, 13.0f, 14.0f };
+   static float[] fA= {10.0f, 11.0f, 12.0f, 13.0f,};
 
    static void revL_L(LList_f L) { 
       System.out.println("\n --- RevL_L ---");
