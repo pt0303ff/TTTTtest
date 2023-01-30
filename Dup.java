@@ -15,7 +15,7 @@ class Dup {
          System.out.println("// @"+i.getIndex()+"  "+L);
       } 
       System.out.println(L); 
-      System.out.println("=========="); 
+      System.out.println("0130================"); 
    }
 /*
  --- RevL_L ---
